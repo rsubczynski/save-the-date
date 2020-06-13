@@ -16,8 +16,8 @@ export class MenuComponent {
     this.items = [{
       label: 'Menu',
       items: [
-        { label: 'Aktualności', icon: 'pi pi-fw pi-home', routerLink: '/home' },
-        { label: 'Lokalizacja', icon: 'pi pi-fw pi-globe', routerLink: '/dish-creator' },
+        { label: 'Aktualności', icon: 'pi pi-fw pi-home', routerLink: '/news' },
+        { label: 'Lokalizacja', icon: 'pi pi-fw pi-globe', routerLink: '/location' },
       ]
     }];
   }

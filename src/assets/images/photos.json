@@ -1,0 +1,22 @@
+{
+  "data":[
+      {
+          "previewImageSrc": "assets/images/demo/1.png",
+          "thumbnailImageSrc": "assets/images/demo/1.png",
+          "alt": "Description for Image 1",
+          "title": "Title 1"
+      },
+      {
+        "previewImageSrc": "assets/images/demo/2.png",
+        "thumbnailImageSrc": "assets/images/demo/2.png",
+        "alt": "Description for Image 1",
+        "title": "Title 1"
+    },
+    {
+      "previewImageSrc": "assets/images/demo/3.png",
+      "thumbnailImageSrc": "assets/images/demo/3.png",
+      "alt": "Description for Image 1",
+      "title": "Title 1"
+  }
+  ]
+}
